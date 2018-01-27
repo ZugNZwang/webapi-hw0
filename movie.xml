@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<movies
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="movie.xsd">
+    <movie>
+        <title>IT</title>
+        <year>2017</year>
+        <genre>Horror</genre>
+        <actor>
+            <name>Bill Skarsgard</name>
+            <DateOfBirth>08/09/1990</DateOfBirth>
+        </actor>
+    </movie>
+    <movie>
+        <title>The Room</title>
+        <year>2003</year>
+        <genre>Comedy</genre>
+        <actor>
+            <name>Tommy Wiseau</name>
+            <DateOfBirth>10/03/2055</DateOfBirth>
+        </actor>
+    </movie>
+</movies>
+
+
